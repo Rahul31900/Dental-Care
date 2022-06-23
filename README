@@ -1,45 +1,11 @@
-=Overview
+Online dentistry management System
 
-The upload progress plugin will alter your rails CGI handling to track the uploaded status of multipart/form encoded posts.  The plugin will also add helper methods to create an AJAX updating progress bar.
+Mostly people visit the dental care for the treatment, but sometimes due to overcrowd or doctor's unavailability, the patient faces drastic inconvenience, which might be consequential in case of serious condition. Alike the above case people have to wait hours to substantiate their slot for doctor's consultancy ,which is again waste of time. Dentistry website will provide offers to customer which they usually not get from the clinic assistant for proper hospitality and consultant of services.
 
-==Installing
+Online dentistry management System promotes easy data entry and usage. It includes patient’s personal information, medical and dental history, treatment plan, patient education, case reports and statistics. This makes the customer/patient's dental practice more convenient, efficient and precise, thus promoting a paperless office. This system is designed and built to meet all the requirements of a dental clinic and to help the dentist in managing their clinics in an effective manner. It can also manage schedule faster, record treatment plans, simplify billing. This project is very helpful to keep record information about the patient like appointment schedule, patient personal records, previous medical records, treatment records, prescriptions, case reports and images. We understand that Online dentistry System in not a product to be sold, it is to manage the inner operation of Dental Clinic with best system functionalities. Modules of this system- Login module: for managing login credentials, User modules: for the user convenience to get knowledge about clinic and its services, Appointment module: used for appointment and its management, Doctor Management module: used for managing the information and detail of the doctor, Patient module: related to patient and their treatment.
 
-Run "script/plugin upload_progress" or checkout the source into your plugins folder.
+QnA Maker: QnA Maker is a cloud-based Natural Language Processing (NLP) service that allows you to create a natural conversational layer over your data. App Services: App Service is a Platform as a Service (PaaS) offering from Microsoft. We use it to host web applications, REST API's and backend services for mobile applications Azure Cognitive Services: Azure Container Instances is a service that enables a developer to deploy containers on the Microsoft Azure public cloud without having to provision or manage any underlying infrastructure.
 
-	svn checkout http://dev.rubyonrails.com/svn/plugins/upload_progress
+https://github.com/Rahul31900/Dental-Care
 
-Expand this archive in your RAILS_ROOT/vendor/plugins directory.  The resulting plugin directory should look like:
-
-	RAILS_ROOT/vendor/plugins/upload_progress/
-	RAILS_ROOT/vendor/plugins/upload_progress/README.txt
-	RAILS_ROOT/vendor/plugins/upload_progress/Rakefile
-	RAILS_ROOT/vendor/plugins/upload_progress/init.rb
-	RAILS_ROOT/vendor/plugins/upload_progress/public/
-	RAILS_ROOT/vendor/plugins/upload_progress/public/stylesheets/
-	RAILS_ROOT/vendor/plugins/upload_progress/public/stylesheets/upload_progress.css
-	RAILS_ROOT/vendor/plugins/upload_progress/lib/
-	RAILS_ROOT/vendor/plugins/upload_progress/doc/
-	RAILS_ROOT/vendor/plugins/upload_progress/test/
-
-The stylesheets included in public/stylesheets are used as a guideline for styling your progress bar and status messages.  You can copy them directly into your own public/stylesheets folder or copy and paste.
-
-==Documentation
-
-You can create the documentation by running:
-
-	rake rdoc
-
-==Requirements
-
-The requirments for getting periodic upload progress updates can be found here:
-
-http://sean.treadway.info/articles/2005/07/18/upload-progress-checklist
-
-==Credits
-
-Sean Treadway <seant@superchannel.org> http://sean.treadway.info
-Thomas Fuchs <thomas@fesch.at> http://mir.aculo.us
-
-==License
-
-This plugin is released under the MIT license.  See MIT-LICENSE for details
+https://rahulstorageaccount20.z30.web.core.windows.net/
