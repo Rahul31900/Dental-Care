@@ -6,6 +6,6 @@ Online dentistry management System promotes easy data entry and usage. It includ
 
 QnA Maker: QnA Maker is a cloud-based Natural Language Processing (NLP) service that allows you to create a natural conversational layer over your data. App Services: App Service is a Platform as a Service (PaaS) offering from Microsoft. We use it to host web applications, REST API's and backend services for mobile applications Azure Cognitive Services: Azure Container Instances is a service that enables a developer to deploy containers on the Microsoft Azure public cloud without having to provision or manage any underlying infrastructure.
 
-https://github.com/Rahul31900/Dental-Care
+https://github.com/Rahul31900/Dental-Care.git
 
 https://futureready001.azurewebsites.net/
